@@ -1,0 +1,5 @@
+/.vscode
+/backend/redflix/target
+/backend/redflix/Cargo.lock
+/cdn/*
+!/cdn/index.html
