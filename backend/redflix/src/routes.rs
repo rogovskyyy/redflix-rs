@@ -1,4 +1,3 @@
-@@ -0,0 +1,80 @@
 pub mod browse {
     use rocket::http::Cookies;
     use rocket::response::Redirect;
